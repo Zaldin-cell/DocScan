@@ -1,1 +1,1 @@
-# DocScan
+# ImageToolsAI
